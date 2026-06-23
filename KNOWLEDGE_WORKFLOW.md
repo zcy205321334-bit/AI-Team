@@ -1,6 +1,7 @@
 # Knowledge Workflow v1.0
 
 > Owner: 李织烟 | 最后更新：2026-06-23
+> 🔒 Frozen v1.0 | 冻结日期：2026-06-23 | 后续修改需基于 Sprint 1 实际运行发现的问题
 
 ---
 

@@ -1,6 +1,7 @@
 # Product Workflow v2.0
 
 > Owner: 佩丽卡 | 最后更新：2026-06-23 | 状态：已确认
+> 🔒 Frozen v1.0 | 冻结日期：2026-06-23 | 后续修改需基于 Sprint 1 实际运行发现的问题
 > 关联：ENGINEERING_WORKFLOW.md · KNOWLEDGE_WORKFLOW.md · DECISION_RULES.md
 
 ---
