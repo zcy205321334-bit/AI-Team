@@ -254,6 +254,20 @@
 2. Sprint 回顾的 Obsidian 归档是否归你？
 3. Obsidian 在本地的实际路径是什么？（以便我更新目录结构）
 
+## 决议记录（v2.0）
+
+| # | 问题 | 决议 | 落地位置 |
+|---|------|------|----------|
+| 1 | Sprint 规划「谁来做」不明 | 明确由佩丽卡通过 Notion Sprint 管理，详细步骤写入 PRODUCT_WORKFLOW.md | PRODUCT_WORKFLOW.md |
+| 2 | Windows 本地操作无 Owner | 凯尔希负责（通过 Claude Code）；WSL/Linux 归李织烟 | ENGINEERING_WORKFLOW.md |
+| 3 | Obsidian 目录三处重复 | Obsidian 目录只在 KNOWLEDGE_WORKFLOW.md 中定义，其他文档只引用 | TEAM_CHARTER.md + 各 Workflow |
+| 4 | RFC 超时无机制 | 发出后 48 小时催一次，再 24 小时无反馈视为无意见 | PRODUCT_WORKFLOW.md + DECISION_RULES.md |
+| 5 | Sprint 回顾分工不清 | 佩丽卡写总结通知李织烟，李织烟写 Obsidian | PRODUCT_WORKFLOW.md |
+| 6 | Chat 沉默规则缺失 | 加「禁止事项 + 五原则」 | COMMUNICATION.md |
+| 7 | 交接格式无强制检查 | 加「禁止通过 Chat 传执行信息」 | COMMUNICATION.md |
+| 8 | RFC 评审无凯尔希义务 | ENGINEERING_WORKFLOW.md 已定义，PRODUCT_WORKFLOW.md 引用 | 两文档已对齐 |
+| 9 | 新文档创建无规范 | 加「团队铁律：Owner + TTL 两个问题」 | TEAM_CHARTER.md + DECISION_RULES.md |
+
 ---
 
-*审查完成。以上建议供团队讨论，确认后更新对应文档。*
+*审查完成。v2.0 文档已发布至 GitHub，团队铁律已写入 TEAM_CHARTER.md。*
